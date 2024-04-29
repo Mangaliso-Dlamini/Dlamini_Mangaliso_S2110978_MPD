@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Mangaliso Linda Dlamini S2110978 -->
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Background">#777777</color>
+    <color name="Yellow">#F7D969</color>
+    <color name="TextColor">#FFFFFF</color>
+    <color name="text_shadow">#7F000000</color>
+    <color name="splash">#F57F17</color>
+    <color name="cardBackground">#4DFFFFFF</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <!--Mangaliso Linda Dlamini S2110978 -->
+    <string name="app_name">GCU Weather</string>
+    <string name="condition_clear">Clear</string>
+    <string name="condition_unknown">unknown</string>
+    <string name="student_id">S2110978</string>
+    <string name="student_name">Mangaliso Linda Dlamini</string>
+</resources>
